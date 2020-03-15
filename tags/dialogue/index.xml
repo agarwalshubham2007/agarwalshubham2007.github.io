@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dialogue | Shubham Agarwal</title>
+    <link>/tags/dialogue/</link>
+      <atom:link href="/tags/dialogue/index.xml" rel="self" type="application/rss+xml" />
+    <description>dialogue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>dialogue</title>
+      <link>/tags/dialogue/</link>
+    </image>
+    
+    <item>
+      <title>Hovor</title>
+      <link>/project/hovor/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/hovor/</guid>
+      <description>&lt;p&gt;[More info coming soon]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model Acquisition Interface</title>
+      <link>/project/mai/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mai/</guid>
+      <description>&lt;h3 id=&#34;motivation&#34;&gt;Motivation&lt;/h3&gt;
+&lt;p&gt;The motivation for goal oriented dialogue design is following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The designer must be in control of the behavior of the bot towards the end-users once it is deployed. This means that the specification of the bot must be interpretable to the designer, and also readily debuggable and editable as desired by the designer.&lt;/li&gt;
+&lt;li&gt;The designer should be able to connect the bot’s actions to system functions or calls to API endpoints (e.g. to issue a ticket or place an order).&lt;/li&gt;
+&lt;li&gt;Finally, and perhaps most importantly, in order to be able to support complex interaction patterns between the end-user and the bot, the bot designer must be able to completely describe the bot’s capabilities without having to manually specify the entire dialog tree.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[More info coming soon]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

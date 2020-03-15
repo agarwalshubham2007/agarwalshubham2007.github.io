@@ -3,99 +3,328 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/posts/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/posts/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/dialogue/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/project/hovor/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/hovor/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/mai/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/project/mai/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/project/tracehub/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/tracehub/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/resume/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/about/</loc>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/projects/</loc>
+    <loc>/authors/christian-muise/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://agarwalshubham2007.github.io/publications/</loc>
+    <loc>/authors/mayank-agarwal/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sohini-upadhyay/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/th-aaai/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yasaman-khazaeni/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhongshen-zeng/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zilu-tang/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-lastras/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mai-aaai-19/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tathagata-chakraborti/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ankit-shah/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/arunima-chaudhary/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ltl-ijcai/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/charlie-wiecha/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/josef-ondrej/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joseph-kim/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julie-shah/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-a.-lastras/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/miroslav-vodolan/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ondrej-bajgar/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/goal-dialogue-arxiv/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/em-intex-19/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adi-botea/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/akihiro-kishimoto/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-daly/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/em-deepdial/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oznur-alkan/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pablo-pedemonte/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/radu-marinescu/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mai-icaps-2019-demo/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/em-sym-18/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/master-thesis/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abhimanyu-bhatter/</loc>
+    <lastmod>2015-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/test-data-generation/</loc>
+    <lastmod>2015-08-12T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankit Shah | Shubham Agarwal</title>
+    <link>/authors/ankit-shah/</link>
+      <atom:link href="/authors/ankit-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ankit Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ankit Shah</title>
+      <link>/authors/ankit-shah/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian inference of linear temporal logic specifications for contrastive explanations</title>
+      <link>/publication/ltl-ijcai/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ltl-ijcai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

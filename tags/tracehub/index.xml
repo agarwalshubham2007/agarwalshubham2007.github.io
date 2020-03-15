@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tracehub | Shubham Agarwal</title>
+    <link>/tags/tracehub/</link>
+      <atom:link href="/tags/tracehub/index.xml" rel="self" type="application/rss+xml" />
+    <description>tracehub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>tracehub</title>
+      <link>/tags/tracehub/</link>
+    </image>
+    
+    <item>
+      <title>TraceHub</title>
+      <link>/project/tracehub/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tracehub/</guid>
+      <description>&lt;h3 id=&#34;time-series-and-tracehub&#34;&gt;Time-Series and TraceHub&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Time-Series - Series of observations 𝑥_𝑖, where each observation x corresponds to a specific time t&lt;/li&gt;
+&lt;li&gt;TraceHub - Platform where separate analytics and dataset owners can plug in time-series analytics and datasets as APIs&lt;/li&gt;
+&lt;li&gt;System runs semi-automated transformer pipelines to generate insights&lt;/li&gt;
+&lt;li&gt;Reports usefulness of the generated insights&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;architecture&#34;&gt;Architecture&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data Loaders&lt;/strong&gt; : automatic type detection while loading the data as traces; each trace being sequence of events in time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transformer Pipelines&lt;/strong&gt; : system automates the transformer pipeline by suggesting the applicable ones on the traces; comes with some standard out-of-the-box data transformers like one-hot encoding, missing value, quantiling, binarizing column etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt; : after the transformer pipeline is completed, resulting output of traces is fed to analytics which then generates insights along with a usefulness score of it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;usecase--simulated-loan-application-dataset&#34;&gt;Usecase – Simulated Loan Application Dataset&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Loan application types : {medical, vacation, vehicle}&lt;/li&gt;
+&lt;li&gt;Events in the application : {receive, evaluate, gather, decision}
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Receive&lt;/em&gt; : new application submitted&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Evaluate&lt;/em&gt; : agent evaluates the application&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gather&lt;/em&gt; : agent decides to gather additional documents for the application&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Decision&lt;/em&gt; : agent approves or denies the application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TraceHub generates insights on this data&lt;/li&gt;
+&lt;li&gt;Code walk-through on below illustrating the 3 steps :
+&lt;ul&gt;
+&lt;li&gt;Data Loading&lt;/li&gt;
+&lt;li&gt;Transformer Pipelines&lt;/li&gt;
+&lt;li&gt;Insight generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;loader = TabularData()
+data = loader.load(data_path=&amp;quot;dataset.csv&amp;quot;)
+setoftraces = TraceSplit().split(data, &amp;quot;appid&amp;quot;)
+
+applicable_tfs = [tf for tf in transformers_list if tf.applicable(setoftraces)]
+applicable_tfs[i].transform(setoftraces, *args)
+
+analytics = applicable_tf_analytics(setoftraces)
+analytics[i].apply(setoftraces)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

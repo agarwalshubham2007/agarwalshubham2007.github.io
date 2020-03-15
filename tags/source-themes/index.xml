@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Shubham Agarwal</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>TraceHub - A Platform to bridge gap between State-Of-The-Art Time-Series Analytics and Datasets</title>
+      <link>/publication/th-aaai/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/th-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAi : An Intelligent Model Acquisition Interface for Interactive Specification of Dialog Agents</title>
+      <link>/publication/mai-aaai-19/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mai-aaai-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference of linear temporal logic specifications for contrastive explanations</title>
+      <link>/publication/ltl-ijcai/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ltl-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning for Goal-Oriented Dialogue Systems</title>
+      <link>/publication/goal-dialogue-arxiv/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/goal-dialogue-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executing Contingent Plans: Addressing Challenges in Deploying Artificial Agents</title>
+      <link>/publication/em-intex-19/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/em-intex-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Dialogue Agents via Automated Planning</title>
+      <link>/publication/em-deepdial/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/em-deepdial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{MAi}: An Interface for Declarative Specification of Goal-Directed Dialogue Agents</title>
+      <link>/publication/mai-icaps-2019-demo/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mai-icaps-2019-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executing Contingent Plans: Challenges in Deploying Artificial Agents</title>
+      <link>/publication/em-sym-18/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/em-sym-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning English Sentences with Abstract Meaning Representation Graphs using Inductive Logic Programming</title>
+      <link>/publication/master-thesis/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated software test data generation using improved search procedure</title>
+      <link>/publication/test-data-generation/</link>
+      <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/test-data-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

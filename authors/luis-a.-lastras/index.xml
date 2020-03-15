@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis A. Lastras | Shubham Agarwal</title>
+    <link>/authors/luis-a.-lastras/</link>
+      <atom:link href="/authors/luis-a.-lastras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis A. Lastras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Luis A. Lastras</title>
+      <link>/authors/luis-a.-lastras/</link>
+    </image>
+    
+    <item>
+      <title>Planning for Goal-Oriented Dialogue Systems</title>
+      <link>/publication/goal-dialogue-arxiv/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/goal-dialogue-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{MAi}: An Interface for Declarative Specification of Goal-Directed Dialogue Agents</title>
+      <link>/publication/mai-icaps-2019-demo/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mai-icaps-2019-demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

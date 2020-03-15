@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hovor | Shubham Agarwal</title>
+    <link>/tags/hovor/</link>
+      <atom:link href="/tags/hovor/index.xml" rel="self" type="application/rss+xml" />
+    <description>hovor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shubham Agarwal</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>hovor</title>
+      <link>/tags/hovor/</link>
+    </image>
+    
+    <item>
+      <title>Hovor</title>
+      <link>/project/hovor/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/hovor/</guid>
+      <description>&lt;p&gt;[More info coming soon]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
